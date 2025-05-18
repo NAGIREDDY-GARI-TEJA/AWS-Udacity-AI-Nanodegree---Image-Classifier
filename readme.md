@@ -54,5 +54,7 @@ The dataset used is the **Oxford 102 Flower Dataset**, which contains images of 
 Results: 
 
 <img width="260" alt="download" src="https://github.com/user-attachments/assets/121105c9-e5f2-4bb1-9c10-2636d5d411d1" />
+
+
 [0.9950209856033325, 0.0023709421511739492, 0.0011722719063982368, 0.0006429857457987964, 0.0002727250393945724]
 ['pink primrose', 'pelargonium', 'mallow', 'hibiscus', 'tree mallow']
