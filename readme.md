@@ -13,7 +13,6 @@ As part of the AWS AI Nanodegree, I built an image classification model that can
 - Jupyter Notebook
 - NumPy, Matplotlib, PIL
 - torchvision (for models and image transforms)
-- (Optional) AWS SageMaker for scalable training/deployment
 
 ## 📁 Dataset
 
